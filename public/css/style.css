@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #0d0d0d;
+  position: relative;
+  height: 100vh;
+}
+
+h1.abyss {
+  width: 100%;
+  top: 50%;
+  position: absolute;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
